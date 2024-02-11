@@ -1,4 +1,7 @@
-           "id": "aaah74nohpepi",
+{
+    "blocks": [
+        {
+            "id": "aaah74nohpepi",
             "did": "did:plc:scbdfmdkhgr4fmv3hpjgwabw",
             "type": "input",
             "inputType": "did",
