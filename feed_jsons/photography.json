@@ -3,14 +3,14 @@
         {
             "id": "aaah6qj2dstxa",
             "type": "input",
-            "listUri": "at://did:plc:scbdfmdkhgr4fmv3hpjgwabw/app.bsky.graph.list/3kdpp2llx2r2e",
+            "listUri": "at://did:plc:scbdfmdkhgr4fmv3hpjgwabw/app.bsky.graph.list/3kdp2tsc2ge2b",
             "inputType": "list",
             "historySeconds": 604800
         },
         {
             "id": "aaah6qj2dqccs",
             "type": "regex",
-            "value": "🤖|artificial intelligence| machine learning| deep learning| logic learning machine | LLM | ML",
+            "value": "🔭 |📷 | photography| landscapes| astrophotography| nature",
             "target": "text|alt_text",
             "caseSensitive": false
         },
@@ -37,6 +37,13 @@
                 "historySeconds": 604800
             },
             {
+                "id": "aaah6qj2dqccs",
+                "type": "regex",
+                "value": "🔭|astrophysics| cosmology | astronomy | physics",
+                "target": "text|alt_text",
+                "caseSensitive": false
+            },
+            {
                 "id": "aaah74nohpepi",
                 "did": "did:plc:scbdfmdkhgr4fmv3hpjgwabw",
                 "type": "input",
@@ -58,8 +65,15 @@
         "forkedAt": "2024-02-11T17:22:51.908Z",
         "parentCid": "bafyreidgsrwpcmqxkwce63qa5dr24qfoipumwkjcfbj5f4zzfaoediksjq",
         "parentUri": "at://did:plc:scbdfmdkhgr4fmv3hpjgwabw/app.bsky.feed.generator/aaajmbqicgb6i",
-        "displayName": "🤖Artificial Intelligence"
+        "subLicense": "MIT",
+        "displayName": "🔭Astronomy",
+        "subDisplayName": "🔭Astronomy"
     },
     "license": "MIT",
-    "displayName": "🤖Artificial Intelligence"
+    "forkedAt": "2024-02-11T22:28:18.294Z",
+    "parentCid": "bafyreifb2ugtexxrljvohgnmd3tq6cxyun466sp6y4dif32muti5vilv54",
+    "parentUri": "at://did:plc:scbdfmdkhgr4fmv3hpjgwabw/app.bsky.feed.generator/aaajmbqicgb6i",
+    "subLicense": "MIT",
+    "displayName": "📷Photography",
+    "subDisplayName": "🔭Astronomy"
 }

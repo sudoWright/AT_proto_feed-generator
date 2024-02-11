@@ -27,6 +27,16 @@
             "sortType": "created_at"
         }
     ],
+    "parent": {
+        "blocks": [],
+        "license": "MIT",
+        "displayName": "sudojames.com"
+    },
     "license": "MIT",
-    "displayName": "🔭Astronomy"
+    "forkedAt": "2024-02-11T17:22:51.908Z",
+    "parentCid": "bafyreidgsrwpcmqxkwce63qa5dr24qfoipumwkjcfbj5f4zzfaoediksjq",
+    "parentUri": "at://did:plc:scbdfmdkhgr4fmv3hpjgwabw/app.bsky.feed.generator/aaajmbqicgb6i",
+    "displayName": "🔭Astronomy",
+    "subLicense": "MIT",
+    "subDisplayName": "🔭Astronomy"
 }
