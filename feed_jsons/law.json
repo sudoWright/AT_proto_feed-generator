@@ -10,7 +10,7 @@
         {
             "id": "aaah6qj2dqccs",
             "type": "regex",
-            "value": "👨🏻‍⚖️| scotus | privacy | regulation | cybercrime | bar association",
+            "value": "👨🏻‍⚖️| scotus | privacy | regulation | cybercrime | bar association | legislation",
             "target": "text|alt_text",
             "caseSensitive": false
         },
