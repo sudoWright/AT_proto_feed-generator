@@ -1,5 +1,19 @@
-{
+
     "blocks": [
+        {
+            "id": "aaah6qj2dstxa",
+            "type": "input",
+            "listUri": "at://did:plc:scbdfmdkhgr4fmv3hpjgwabw/app.bsky.graph.list/3kdp33biuox2r",
+            "inputType": "list",
+            "historySeconds": 604800
+        },
+        {
+            "id": "aaah6qj2dqccs",
+            "type": "regex",
+            "value": "information security | data protection | defcon | badge life | encryption | quantum cryptography| cybersecurity | infosec | CVE | risk management | vulnerability | CISSP",
+            "target": "text|alt_text",
+            "caseSensitive": false
+        },
         {
             "id": "aaah74nohpepi",
             "did": "did:plc:scbdfmdkhgr4fmv3hpjgwabw",
@@ -43,25 +57,23 @@
             }
         ],
         "parent": {
-            "blocks": [
-                {
-                    "id": "aaah6qj2dtjew",
-                    "type": "sort",
-                    "sortType": "created_at"
-                }
-            ],
+            "blocks": [],
             "license": "MIT",
-            "displayName": "sudojames"
+            "displayName": "sudojames.com"
         },
         "license": "MIT",
-        "forkedAt": "2024-02-11T02:36:34.194Z",
-        "parentCid": "bafyreicespupf6nnnrhvpqf7vme6jnhqh7yjdxio3zikk6i2jpsdlbbtay",
-        "parentUri": "at://did:plc:x2nsupeeo52oznrmplwapppl/app.bsky.feed.generator/aaah6qj2dixw2",
-        "displayName": "🔭Astronomy"
+        "forkedAt": "2024-02-11T17:22:51.908Z",
+        "parentCid": "bafyreidgsrwpcmqxkwce63qa5dr24qfoipumwkjcfbj5f4zzfaoediksjq",
+        "parentUri": "at://did:plc:scbdfmdkhgr4fmv3hpjgwabw/app.bsky.feed.generator/aaajmbqicgb6i",
+        "subLicense": "MIT",
+        "displayName": "🔭Astronomy",
+        "subDisplayName": "🔭Astronomy"
     },
     "license": "MIT",
-    "forkedAt": "2024-02-11T03:24:36.150Z",
-    "parentCid": "bafyreidgsrwpcmqxkwce63qa5dr24qfoipumwkjcfbj5f4zzfaoediksjq",
+    "forkedAt": "2024-02-13T03:06:59.538Z",
+    "parentCid": "bafyreiayeb6oy5ka3tj4zlish2ixokw7exwytbes5g2ipkuwdq4wlxg5bm",
     "parentUri": "at://did:plc:scbdfmdkhgr4fmv3hpjgwabw/app.bsky.feed.generator/aaajmbqicgb6i",
-    "displayName": "🗝️Cybersecurity"
+    "subLicense": "MIT",
+    "displayName": "🗝️Cybersecurity",
+    "subDisplayName": "🔭Astronomy"
 }

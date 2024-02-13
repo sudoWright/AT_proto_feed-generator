@@ -1,0 +1,100 @@
+
+    "blocks": [
+        {
+            "id": "aaah6qj2dstxa",
+            "type": "input",
+            "listUri": "at://did:plc:scbdfmdkhgr4fmv3hpjgwabw/app.bsky.graph.list/3kdoxq5i2aw2m",
+            "inputType": "list",
+            "historySeconds": 604800
+        },
+        {
+            "id": "aaah6qj2dqccs",
+            "type": "regex",
+            "value": "decentralization | atproto | activitypub | identity | federated | blockchain | ethereum | bitcoin | cryptocurrency | metaverse | bluesky social | bsky",
+            "target": "text|alt_text",
+            "caseSensitive": false
+        },
+        {
+            "id": "aaah74nohpepi",
+            "did": "did:plc:scbdfmdkhgr4fmv3hpjgwabw",
+            "type": "input",
+            "inputType": "did",
+            "withCounts": false
+        },
+        {
+            "id": "aaah6qj2dtjew",
+            "type": "sort",
+            "sortType": "created_at"
+        }
+    ],
+    "parent": {
+        "blocks": [
+            {
+                "id": "aaah6qj2dstxa",
+                "type": "input",
+                "listUri": "at://did:plc:scbdfmdkhgr4fmv3hpjgwabw/app.bsky.graph.list/3kdpp2llx2r2e",
+                "inputType": "list",
+                "historySeconds": 604800
+            },
+            {
+                "id": "aaah6qj2dqccs",
+                "type": "regex",
+                "value": "🤖|artificial intelligence| machine learning| deep learning| logic learning machine | LLM | ML",
+                "target": "text|alt_text",
+                "caseSensitive": false
+            },
+            {
+                "id": "aaah74nohpepi",
+                "did": "did:plc:scbdfmdkhgr4fmv3hpjgwabw",
+                "type": "input",
+                "inputType": "did",
+                "withCounts": false
+            },
+            {
+                "id": "aaah6qj2dtjew",
+                "type": "sort",
+                "sortType": "created_at"
+            }
+        ],
+        "parent": {
+            "blocks": [
+                {
+                    "id": "aaah6qj2dstxa",
+                    "type": "input",
+                    "listUri": "at://did:plc:scbdfmdkhgr4fmv3hpjgwabw/app.bsky.graph.list/3kdp2vuogyd2l",
+                    "inputType": "list",
+                    "historySeconds": 604800
+                },
+                {
+                    "id": "aaah74nohpepi",
+                    "did": "did:plc:scbdfmdkhgr4fmv3hpjgwabw",
+                    "type": "input",
+                    "inputType": "did",
+                    "withCounts": false
+                },
+                {
+                    "id": "aaah6qj2dtjew",
+                    "type": "sort",
+                    "sortType": "created_at"
+                }
+            ],
+            "parent": {
+                "blocks": [],
+                "license": "MIT",
+                "displayName": "sudojames.com"
+            },
+            "license": "MIT",
+            "forkedAt": "2024-02-11T17:22:51.908Z",
+            "parentCid": "bafyreidgsrwpcmqxkwce63qa5dr24qfoipumwkjcfbj5f4zzfaoediksjq",
+            "parentUri": "at://did:plc:scbdfmdkhgr4fmv3hpjgwabw/app.bsky.feed.generator/aaajmbqicgb6i",
+            "displayName": "🤖Artificial Intelligence"
+        },
+        "license": "MIT",
+        "displayName": "🤖Artificial Intelligence"
+    },
+    "license": "MIT",
+    "displayName": "⛓️Decentralization",
+    "parentUri": "at://did:plc:scbdfmdkhgr4fmv3hpjgwabw/app.bsky.feed.generator/aaajsmlvqs4r2",
+    "parentCid": "bafyreic4hoj7oodolavlklnmal3spo7ppon7xcjtamqo6ufi4a2cuyojiy",
+    "forkedAt": "2024-02-13T02:39:44.538Z"
+}
